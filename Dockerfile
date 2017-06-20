@@ -1,1 +1,1 @@
-FROM hub.c.163.com/public/ubuntu:16.04-tools
+FROM hub.c.163.com/public/redis:2.8.4
