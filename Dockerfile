@@ -1,1 +1,1 @@
-FROM hub.c.163.com/public/mongodb:3.2.0
+FROM hub.c.163.com/public/nodejs:5.7.0
